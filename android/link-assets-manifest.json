@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Asap-Bold.ttf",
+      "sha1": "86415ee19610f5959f114230fdd7946c712737c7"
+    },
+    {
+      "path": "src/assets/fonts/Asap-ExtraBold.ttf",
+      "sha1": "bdf13977db983acf38c7737be232c2892477d5b9"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Light.ttf",
+      "sha1": "e2d88270d43d2da7da9207f92bb419a8bd16dd9b"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Medium.ttf",
+      "sha1": "ae6c3d27e2c083848c3a69e8153a3263f340d8f4"
+    },
+    {
+      "path": "src/assets/fonts/Asap-SemiBold.ttf",
+      "sha1": "7a050903f0929a65313541c1fa91c845168a33bc"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Thin.ttf",
+      "sha1": "e314432c84542959913a30f356e2f73e45567109"
+    }
+  ]
+}
